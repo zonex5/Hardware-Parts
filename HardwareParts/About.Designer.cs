@@ -72,18 +72,18 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.Location = new System.Drawing.Point(223, 251);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(149, 13);
+            this.label3.Size = new System.Drawing.Size(61, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Colegiul Politehnic Balti - 2014";
+            this.label3.Text = "CPB - 2014";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(223, 155);
+            this.label4.Location = new System.Drawing.Point(290, 251);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(137, 13);
+            this.label4.Size = new System.Drawing.Size(41, 13);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Калкей Марина, гр. А-420";
+            this.label4.Text = "zonex5";
             // 
             // About
             // 
