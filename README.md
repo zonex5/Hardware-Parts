@@ -1,5 +1,5 @@
 # Hardware Parts
- Программа для учета офисной техники
+Program for managing office equipment (The practical part for the diploma thesis)
  
 <img src="https://i.ibb.co/r7Gj9dV/Image-005.png" alt="Image-005" border="0">
 
